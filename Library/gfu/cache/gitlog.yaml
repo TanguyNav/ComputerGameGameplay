@@ -1,0 +1,2000 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-11-28T15:10:31.684+01:00
+  initializedAtString: 2020-11-28T15:10:30.679+01:00
+  log:
+  - commitID: 6c4e3a974e2ed8db34b39661811723ca98add8fb
+    mergeA: 
+    mergeB: 
+    authorName: TanNav
+    authorEmail: tanguynavez@yahoo.fr
+    commitEmail: tanguynavez@yahoo.fr
+    commitName: TanNav
+    summary: Puzzle Gameplay (without Debug.Log)
+    description: 
+    timeString: 2020-11-17T16:52:31.000+01:00
+    commitTimeString: 2020-11-17T16:52:31.000+01:00
+    changes:
+    - path: Assets\Scripts\CircleSegmentManager.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scripts\CircleSegmentManager.cs
+      projectPath: Assets\Scripts\CircleSegmentManager.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\PackageManagerSettings.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\PackageManagerSettings.asset
+      projectPath: ProjectSettings\PackageManagerSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VersionControlSettings.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\VersionControlSettings.asset
+      projectPath: ProjectSettings\VersionControlSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 5da44bd1d455dbc4b936f436da7fb1c88a8d7234
+    mergeA: 
+    mergeB: 
+    authorName: TanNav
+    authorEmail: tanguynavez@yahoo.fr
+    commitEmail: tanguynavez@yahoo.fr
+    commitName: TanNav
+    summary: Puzzle Game Gameplay
+    description: 
+    timeString: 2020-11-17T16:44:02.000+01:00
+    commitTimeString: 2020-11-17T16:44:02.000+01:00
+    changes:
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\CircleSegment.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scripts\CircleSegment.cs
+      projectPath: Assets\Scripts\CircleSegment.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\CircleSegmentManager.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scripts\CircleSegmentManager.cs
+      projectPath: Assets\Scripts\CircleSegmentManager.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\URPProjectSettings.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\URPProjectSettings.asset
+      projectPath: ProjectSettings\URPProjectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 839b803de1d1c76bdd8eb8c604c41cad9e44ac9f
+    mergeA: 
+    mergeB: 
+    authorName: Breeky
+    authorEmail: samuelchaput87@gmail.com
+    commitEmail: samuelchaput87@gmail.com
+    commitName: Breeky
+    summary: First commit
+    description: 
+    timeString: 2020-11-10T15:26:47.000+01:00
+    commitTimeString: 2020-11-10T15:26:47.000+01:00
+    changes:
+    - path: Assets\2D Renderer.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\2D Renderer.asset
+      projectPath: Assets\2D Renderer.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\2D Renderer.asset.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\2D Renderer.asset.meta
+      projectPath: Assets\2D Renderer.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Animations.meta
+      projectPath: Assets\Animations.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Player.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Animations\Player.meta
+      projectPath: Assets\Animations\Player.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Player\Player.controller
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Animations\Player\Player.controller
+      projectPath: Assets\Animations\Player\Player.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Player\Player.controller.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Animations\Player\Player.controller.meta
+      projectPath: Assets\Animations\Player\Player.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Player\Player_Idle.anim
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Animations\Player\Player_Idle.anim
+      projectPath: Assets\Animations\Player\Player_Idle.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Player\Player_Idle.anim.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Animations\Player\Player_Idle.anim.meta
+      projectPath: Assets\Animations\Player\Player_Idle.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Player\Player_Run.anim
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Animations\Player\Player_Run.anim
+      projectPath: Assets\Animations\Player\Player_Run.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Player\Player_Run.anim.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Animations\Player\Player_Run.anim.meta
+      projectPath: Assets\Animations\Player\Player_Run.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Materials.meta
+      projectPath: Assets\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\CircleSegmentMaterial.mat
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Materials\CircleSegmentMaterial.mat
+      projectPath: Assets\Materials\CircleSegmentMaterial.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\CircleSegmentMaterial.mat.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Materials\CircleSegmentMaterial.mat.meta
+      projectPath: Assets\Materials\CircleSegmentMaterial.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PipelineAsset.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\PipelineAsset.asset
+      projectPath: Assets\PipelineAsset.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PipelineAsset.asset.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\PipelineAsset.asset.meta
+      projectPath: Assets\PipelineAsset.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1.meta
+      projectPath: Assets\Pixel Adventure 1.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets.meta
+      projectPath: Assets\Pixel Adventure 1\Assets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Appearing (96x96).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Appearing (96x96).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Appearing (96x96).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Appearing (96x96).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Appearing (96x96).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Appearing (96x96).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Desappearing (96x96).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Desappearing (96x96).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Desappearing (96x96).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Desappearing (96x96).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Desappearing (96x96).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Desappearing (96x96).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Mask Dude.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Double Jump
+        (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Mask Dude\Double Jump (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Double
+        Jump (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Double Jump
+        (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Mask Dude\Double Jump (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Double
+        Jump (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Fall (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Mask Dude\Fall (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Fall
+        (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Fall (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Mask Dude\Fall (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Fall
+        (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Hit (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Mask Dude\Hit (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Hit
+        (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Hit (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Mask Dude\Hit (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Hit
+        (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Idle (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Mask Dude\Idle (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Idle
+        (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Idle (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Mask Dude\Idle (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Idle
+        (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Jump (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Mask Dude\Jump (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Jump
+        (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Jump (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Mask Dude\Jump (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Jump
+        (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Run (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Mask Dude\Run (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Run
+        (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Run (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Mask Dude\Run (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Run
+        (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Wall Jump (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Mask Dude\Wall Jump (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Wall
+        Jump (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Wall Jump (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Mask Dude\Wall Jump (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Mask Dude\Wall
+        Jump (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Ninja Frog.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Double Jump
+        (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Ninja Frog\Double Jump (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Double
+        Jump (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Double Jump
+        (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Ninja Frog\Double Jump (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Double
+        Jump (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Fall (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Ninja Frog\Fall (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Fall
+        (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Fall (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Ninja Frog\Fall (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Fall
+        (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Hit (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Ninja Frog\Hit (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Hit
+        (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Hit (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Ninja Frog\Hit (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Hit
+        (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Idle (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Ninja Frog\Idle (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Idle
+        (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Idle (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Ninja Frog\Idle (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Idle
+        (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Jump (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Ninja Frog\Jump (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Jump
+        (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Jump (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Ninja Frog\Jump (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Jump
+        (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Run (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Ninja Frog\Run (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Run
+        (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Run (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Ninja Frog\Run (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Run
+        (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Wall Jump
+        (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Ninja Frog\Wall Jump (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Wall
+        Jump (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Wall Jump
+        (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Ninja Frog\Wall Jump (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Ninja Frog\Wall
+        Jump (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Pink Man.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Double Jump
+        (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Pink Man\Double Jump (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Double
+        Jump (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Double Jump
+        (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Pink Man\Double Jump (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Double
+        Jump (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Fall (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Pink Man\Fall (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Fall
+        (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Fall (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Pink Man\Fall (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Fall
+        (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Hit (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Pink Man\Hit (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Hit (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Hit (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Pink Man\Hit (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Hit (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Idle (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Pink Man\Idle (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Idle
+        (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Idle (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Pink Man\Idle (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Idle
+        (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Jump (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Pink Man\Jump (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Jump
+        (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Jump (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Pink Man\Jump (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Jump
+        (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Run (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Pink Man\Run (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Run (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Run (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Pink Man\Run (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Run (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Wall Jump (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Pink Man\Wall Jump (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Wall
+        Jump (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Wall Jump (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Pink Man\Wall Jump (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Pink Man\Wall
+        Jump (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Virtual Guy.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Double Jump
+        (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Virtual Guy\Double Jump (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Double
+        Jump (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Double Jump
+        (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Virtual Guy\Double Jump (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Double
+        Jump (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Fall (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Virtual Guy\Fall (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Fall
+        (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Fall (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Virtual Guy\Fall (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Fall
+        (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Hit (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Virtual Guy\Hit (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Hit
+        (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Hit (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Virtual Guy\Hit (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Hit
+        (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Idle (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Virtual Guy\Idle (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Idle
+        (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Idle (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Virtual Guy\Idle (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Idle
+        (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Jump (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Virtual Guy\Jump (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Jump
+        (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Jump (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Virtual Guy\Jump (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Jump
+        (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Run (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Virtual Guy\Run (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Run
+        (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Run (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Virtual Guy\Run (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Run
+        (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Wall Jump
+        (32x32).png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Virtual Guy\Wall Jump (32x32).png
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Wall
+        Jump (32x32).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Wall Jump
+        (32x32).png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Assets\Main Characters\Virtual Guy\Wall Jump (32x32).png.meta
+      projectPath: Assets\Pixel Adventure 1\Assets\Main Characters\Virtual Guy\Wall
+        Jump (32x32).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Scenes.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Scenes.meta
+      projectPath: Assets\Pixel Adventure 1\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Scenes\Demo.unity
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Scenes\Demo.unity
+      projectPath: Assets\Pixel Adventure 1\Scenes\Demo.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pixel Adventure 1\Scenes\Demo.unity.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Pixel
+        Adventure 1\Scenes\Demo.unity.meta
+      projectPath: Assets\Pixel Adventure 1\Scenes\Demo.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Prefabs.meta
+      projectPath: Assets\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\CircleDelimiter.prefab
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Prefabs\CircleDelimiter.prefab
+      projectPath: Assets\Prefabs\CircleDelimiter.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\CircleDelimiter.prefab.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Prefabs\CircleDelimiter.prefab.meta
+      projectPath: Assets\Prefabs\CircleDelimiter.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\CircleSegment.prefab
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Prefabs\CircleSegment.prefab
+      projectPath: Assets\Prefabs\CircleSegment.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\CircleSegment.prefab.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Prefabs\CircleSegment.prefab.meta
+      projectPath: Assets\Prefabs\CircleSegment.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\LineSegment.prefab
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Prefabs\LineSegment.prefab
+      projectPath: Assets\Prefabs\LineSegment.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\LineSegment.prefab.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Prefabs\LineSegment.prefab.meta
+      projectPath: Assets\Prefabs\LineSegment.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Planet Bottom.prefab
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Prefabs\Planet
+        Bottom.prefab
+      projectPath: Assets\Prefabs\Planet Bottom.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Planet Bottom.prefab.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Prefabs\Planet
+        Bottom.prefab.meta
+      projectPath: Assets\Prefabs\Planet Bottom.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Planet Top.prefab
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Prefabs\Planet
+        Top.prefab
+      projectPath: Assets\Prefabs\Planet Top.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Planet Top.prefab.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Prefabs\Planet
+        Top.prefab.meta
+      projectPath: Assets\Prefabs\Planet Top.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Player.prefab
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Prefabs\Player.prefab
+      projectPath: Assets\Prefabs\Player.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Player.prefab.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Prefabs\Player.prefab.meta
+      projectPath: Assets\Prefabs\Player.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Projectile.prefab
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Prefabs\Projectile.prefab
+      projectPath: Assets\Prefabs\Projectile.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Projectile.prefab.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Prefabs\Projectile.prefab.meta
+      projectPath: Assets\Prefabs\Projectile.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CameraController.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scripts\CameraController.cs
+      projectPath: Assets\Scripts\CameraController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CameraController.cs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scripts\CameraController.cs.meta
+      projectPath: Assets\Scripts\CameraController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CircleLineRenderer.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scripts\CircleLineRenderer.cs
+      projectPath: Assets\Scripts\CircleLineRenderer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CircleLineRenderer.cs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scripts\CircleLineRenderer.cs.meta
+      projectPath: Assets\Scripts\CircleLineRenderer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CircleSegment.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scripts\CircleSegment.cs
+      projectPath: Assets\Scripts\CircleSegment.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CircleSegment.cs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scripts\CircleSegment.cs.meta
+      projectPath: Assets\Scripts\CircleSegment.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CircleSegmentManager.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scripts\CircleSegmentManager.cs
+      projectPath: Assets\Scripts\CircleSegmentManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CircleSegmentManager.cs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scripts\CircleSegmentManager.cs.meta
+      projectPath: Assets\Scripts\CircleSegmentManager.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\InnerCircleCollider.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scripts\InnerCircleCollider.cs
+      projectPath: Assets\Scripts\InnerCircleCollider.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\InnerCircleCollider.cs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scripts\InnerCircleCollider.cs.meta
+      projectPath: Assets\Scripts\InnerCircleCollider.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PlayerController.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scripts\PlayerController.cs
+      projectPath: Assets\Scripts\PlayerController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PlayerController.cs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scripts\PlayerController.cs.meta
+      projectPath: Assets\Scripts\PlayerController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\ProjectileController.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scripts\ProjectileController.cs
+      projectPath: Assets\Scripts\ProjectileController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\ProjectileController.cs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Scripts\ProjectileController.cs.meta
+      projectPath: Assets\Scripts\ProjectileController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shaders.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Shaders.meta
+      projectPath: Assets\Shaders.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shaders\CircleSegmentShader2D.shadergraph
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Shaders\CircleSegmentShader2D.shadergraph
+      projectPath: Assets\Shaders\CircleSegmentShader2D.shadergraph
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shaders\CircleSegmentShader2D.shadergraph.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Shaders\CircleSegmentShader2D.shadergraph.meta
+      projectPath: Assets\Shaders\CircleSegmentShader2D.shadergraph.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Sprites.meta
+      projectPath: Assets\Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planet.png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Sprites\Planet.png
+      projectPath: Assets\Sprites\Planet.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planet.png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Sprites\Planet.png.meta
+      projectPath: Assets\Sprites\Planet.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Player.png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Sprites\Player.png
+      projectPath: Assets\Sprites\Player.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Player.png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Sprites\Player.png.meta
+      projectPath: Assets\Sprites\Player.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets.meta
+      projectPath: Assets\Standard Assets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt
+      projectPath: Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Prefabs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Prefabs.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Prefabs\CarTiltControls.prefab
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Prefabs\CarTiltControls.prefab
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs\CarTiltControls.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Prefabs\CarTiltControls.prefab.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Prefabs\CarTiltControls.prefab.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs\CarTiltControls.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Prefabs\DualTouchControls.prefab
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Prefabs\DualTouchControls.prefab
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs\DualTouchControls.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Prefabs\DualTouchControls.prefab.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Prefabs\DualTouchControls.prefab.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs\DualTouchControls.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileAircraftControls.prefab
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Prefabs\MobileAircraftControls.prefab
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileAircraftControls.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileAircraftControls.prefab.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Prefabs\MobileAircraftControls.prefab.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileAircraftControls.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileSingleStickControl.prefab
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Prefabs\MobileSingleStickControl.prefab
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileSingleStickControl.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileSingleStickControl.prefab.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Prefabs\MobileSingleStickControl.prefab.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileSingleStickControl.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileTiltControlRig.prefab
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Prefabs\MobileTiltControlRig.prefab
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileTiltControlRig.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileTiltControlRig.prefab.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Prefabs\MobileTiltControlRig.prefab.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileTiltControlRig.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\ButtonHandler.cs
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\ButtonHandler.cs.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\Joystick.cs
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\Joystick.cs.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\MobileControlRig.cs
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\MobileControlRig.cs.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\PlatformSpecific.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\TiltInput.cs
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\TiltInput.cs.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\TouchPad.cs
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\TouchPad.cs.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\VirtualInput.cs
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Scripts\VirtualInput.cs.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonAcceleratorOverSprite.png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonAcceleratorOverSprite.png
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonAcceleratorOverSprite.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonAcceleratorOverSprite.png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonAcceleratorOverSprite.png.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonAcceleratorOverSprite.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonAcceleratorUpSprite.png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonAcceleratorUpSprite.png
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonAcceleratorUpSprite.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonAcceleratorUpSprite.png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonAcceleratorUpSprite.png.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonAcceleratorUpSprite.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonArrowOverSprite.png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonArrowOverSprite.png
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonArrowOverSprite.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonArrowOverSprite.png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonArrowOverSprite.png.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonArrowOverSprite.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonArrowUpSprite.png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonArrowUpSprite.png
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonArrowUpSprite.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonArrowUpSprite.png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonArrowUpSprite.png.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonArrowUpSprite.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonBrakeOverSprite.png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonBrakeOverSprite.png
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonBrakeOverSprite.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonBrakeOverSprite.png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonBrakeOverSprite.png.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonBrakeOverSprite.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonBrakeUpSprite.png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonBrakeUpSprite.png
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonBrakeUpSprite.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonBrakeUpSprite.png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonBrakeUpSprite.png.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonBrakeUpSprite.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonCameraCycleUpSprite.png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonCameraCycleUpSprite.png
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonCameraCycleUpSprite.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonCameraCycleUpSprite.png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonCameraCycleUpSprite.png.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonCameraCycleUpSprite.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonResetSprite.png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonResetSprite.png
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonResetSprite.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonResetSprite.png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonResetSprite.png.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonResetSprite.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonSpacebarSprite.png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonSpacebarSprite.png
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonSpacebarSprite.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonSpacebarSprite.png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonSpacebarSprite.png.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonSpacebarSprite.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickOverSprite.png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonThumbstickOverSprite.png
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickOverSprite.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickOverSprite.png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonThumbstickOverSprite.png.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickOverSprite.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite.png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite.png
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite.png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite.png.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite2.png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite2.png
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite2.png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite2.png.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonTimescaleFullUpSprite.png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonTimescaleFullUpSprite.png
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonTimescaleFullUpSprite.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonTimescaleFullUpSprite.png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonTimescaleFullUpSprite.png.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonTimescaleFullUpSprite.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonTimescaleSlowUpSprite.png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonTimescaleSlowUpSprite.png
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonTimescaleSlowUpSprite.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonTimescaleSlowUpSprite.png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\ButtonTimescaleSlowUpSprite.png.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonTimescaleSlowUpSprite.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\SliderBackgroundSprite.png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\SliderBackgroundSprite.png
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\SliderBackgroundSprite.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\SliderBackgroundSprite.png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\SliderBackgroundSprite.png.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\SliderBackgroundSprite.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\SliderHandleSprite.png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\SliderHandleSprite.png
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\SliderHandleSprite.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\SliderHandleSprite.png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\SliderHandleSprite.png.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\SliderHandleSprite.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\TouchpadSprite.png
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\TouchpadSprite.png
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\TouchpadSprite.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Standard Assets\CrossPlatformInput\Sprites\TouchpadSprite.png.meta
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\Standard
+        Assets\CrossPlatformInput\Sprites\TouchpadSprite.png.meta
+      projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\TouchpadSprite.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\URPProjectSettings.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\URPProjectSettings.asset
+      projectPath: ProjectSettings\URPProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 46a6673f9ec527b04033458ab0059555000fc7b5
+    mergeA: 
+    mergeB: 
+    authorName: Breeky
+    authorEmail: samuelchaput87@gmail.com
+    commitEmail: samuelchaput87@gmail.com
+    commitName: Breeky
+    summary: Initial commit
+    description: 
+    timeString: 2020-11-10T15:20:08.000+01:00
+    commitTimeString: 2020-11-10T15:20:08.000+01:00
+    changes:
+    - path: .gitattributes
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: D:\Documents\Cours DTU\Computer Game Prototyping\Game\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
